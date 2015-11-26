@@ -4,6 +4,7 @@ Module for management users and their rights with the support of registration vi
 
 Abilities
 ---------
+#### Поиски счастья
 #### User registration and authorization by e-mail and via social networks with the ability to bind several different social networking accounts to a one account on the your site
 ![Authorization widget](https://cloud.githubusercontent.com/assets/7313306/8025081/22fe3ae0-0d52-11e5-8c38-583ddd985ecf.png)
 ![OAuth keys manage widget](https://cloud.githubusercontent.com/assets/7313306/8025094/a61f284e-0d52-11e5-8efc-2125d9327aad.png)
